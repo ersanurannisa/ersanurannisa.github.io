@@ -75,6 +75,9 @@ css contact body {
 CSS HOME .text-color {
   color: #fff;
 }
+.card-text {
+  text-align: justify;
+}
 #header {
   background: url(https://i.pinimg.com/564x/56/77/f0/5677f01b438c5b66a55875ebc11a04b5.jpg)
     center center / cover no-repeat;
